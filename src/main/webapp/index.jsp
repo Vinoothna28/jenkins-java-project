@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Nee peru enti ra Jaffa</label>
+          <label>Nee peru enti ra </label>
         </div>
         <div class="form-control">
           <input type="password" required />
