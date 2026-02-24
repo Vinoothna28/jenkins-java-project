@@ -18,11 +18,11 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Naam bolo</label>
+          <label>Nee peru enti ra Jaffa</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password pettu</label>
+          <label>Password pettu Addukovala?</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
